@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+secrets/
+output/
+work/
+*.sqlite
+assets/voices/
+logs/
+
+.DS_Store
